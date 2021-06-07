@@ -12,7 +12,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/andersfylling/disgord/json"
+	"github.com/Vedza/disgord/json"
 )
 
 // defaults and string format's for Discord interaction

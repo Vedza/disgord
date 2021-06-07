@@ -4,7 +4,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/andersfylling/disgord/internal/logger"
+	"github.com/Vedza/disgord/internal/logger"
 )
 
 const DefaultIdentifyRateLimit = 1000

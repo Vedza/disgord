@@ -8,8 +8,8 @@ import (
 
 	"github.com/sirupsen/logrus"
 
-	"github.com/andersfylling/disgord"
-	"github.com/andersfylling/disgord/std"
+	"github.com/Vedza/disgord"
+	"github.com/Vedza/disgord/std"
 )
 
 var log = &logrus.Logger{

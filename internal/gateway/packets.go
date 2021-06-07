@@ -6,9 +6,9 @@ import (
 	"context"
 	"io"
 
-	"github.com/andersfylling/disgord/json"
+	"github.com/Vedza/disgord/json"
 
-	"github.com/andersfylling/disgord/internal/gateway/opcode"
+	"github.com/Vedza/disgord/internal/gateway/opcode"
 )
 
 //////////////////////////////////////////////////////

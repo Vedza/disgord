@@ -3,7 +3,7 @@ package std
 import (
 	"strings"
 
-	"github.com/andersfylling/disgord"
+	"github.com/Vedza/disgord"
 )
 
 // CopyMsgEvt allows you to copy a message event such that you can edit the content using middlewares.

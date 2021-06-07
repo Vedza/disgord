@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/andersfylling/disgord/json"
+	"github.com/Vedza/disgord/json"
 )
 
 // NewGuild ...

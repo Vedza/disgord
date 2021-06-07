@@ -4,7 +4,7 @@ import (
 	"context"
 	"testing"
 
-	"github.com/andersfylling/disgord/json"
+	"github.com/Vedza/disgord/json"
 )
 
 var fakePermissionsRole = &Role{ID: 10, Permissions: 2048}

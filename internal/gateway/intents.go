@@ -3,7 +3,7 @@ package gateway
 import (
 	"strings"
 
-	"github.com/andersfylling/disgord/internal/event"
+	"github.com/Vedza/disgord/internal/event"
 )
 
 type Intent uint64

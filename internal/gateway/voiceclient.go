@@ -11,10 +11,10 @@ import (
 
 	"go.uber.org/atomic"
 
-	"github.com/andersfylling/disgord/internal/gateway/cmd"
-	"github.com/andersfylling/disgord/internal/gateway/opcode"
-	"github.com/andersfylling/disgord/internal/logger"
-	"github.com/andersfylling/disgord/json"
+	"github.com/Vedza/disgord/internal/gateway/cmd"
+	"github.com/Vedza/disgord/internal/gateway/opcode"
+	"github.com/Vedza/disgord/internal/logger"
+	"github.com/Vedza/disgord/json"
 )
 
 type VoiceConfig struct {
@@ -219,7 +219,7 @@ func (c *VoiceClient) onHello(v interface{}) (err error) {
 		return nil
 	} else if c.heartbeatInterval > 0 {
 		c.Unlock()
-		return errors.New("a new hello packet was sent, with a different interval - please make a github issue at https://github.com/andersfylling/disgord")
+		return errors.New("a new hello packet was sent, with a different interval - please make a github issue at https://github.com/Vedza/disgord")
 	}
 	c.heartbeatInterval = interval
 	c.Unlock()

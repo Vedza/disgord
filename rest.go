@@ -9,10 +9,10 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/andersfylling/disgord/internal/constant"
-	"github.com/andersfylling/disgord/json"
+	"github.com/Vedza/disgord/internal/constant"
+	"github.com/Vedza/disgord/json"
 
-	"github.com/andersfylling/disgord/internal/httd"
+	"github.com/Vedza/disgord/internal/httd"
 )
 
 type ErrRest = httd.ErrREST

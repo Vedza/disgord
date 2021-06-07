@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/andersfylling/disgord/internal/endpoint"
-	"github.com/andersfylling/disgord/internal/httd"
+	"github.com/Vedza/disgord/internal/endpoint"
+	"github.com/Vedza/disgord/internal/httd"
 )
 
 func validEmojiName(name string) bool {

@@ -6,8 +6,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/andersfylling/disgord/internal/gateway/opcode"
-	"github.com/andersfylling/disgord/json"
+	"github.com/Vedza/disgord/internal/gateway/opcode"
+	"github.com/Vedza/disgord/json"
 )
 
 //UnmarshalJSON see interface json.Unmarshaler

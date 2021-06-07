@@ -7,7 +7,7 @@ package disgord
 import (
 	"errors"
 
-	"github.com/andersfylling/disgord/json"
+	"github.com/Vedza/disgord/json"
 )
 
 // Resource represents a discord event.

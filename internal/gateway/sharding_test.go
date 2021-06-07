@@ -7,8 +7,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/andersfylling/disgord/internal/gateway/cmd"
-	"github.com/andersfylling/disgord/internal/logger"
+	"github.com/Vedza/disgord/internal/gateway/cmd"
+	"github.com/Vedza/disgord/internal/logger"
 )
 
 type GatewayBotGetterMock struct {

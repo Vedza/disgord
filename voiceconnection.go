@@ -12,8 +12,8 @@ import (
 
 	"go.uber.org/atomic"
 
-	"github.com/andersfylling/disgord/internal/gateway"
-	"github.com/andersfylling/disgord/internal/gateway/cmd"
+	"github.com/Vedza/disgord/internal/gateway"
+	"github.com/Vedza/disgord/internal/gateway/cmd"
 
 	"golang.org/x/crypto/nacl/secretbox"
 )

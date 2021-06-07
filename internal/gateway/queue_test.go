@@ -6,7 +6,7 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/andersfylling/disgord/internal/gateway/opcode"
+	"github.com/Vedza/disgord/internal/gateway/opcode"
 )
 
 func TestClientPktQueue_Add(t *testing.T) {

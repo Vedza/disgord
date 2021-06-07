@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/andersfylling/disgord/json"
+	"github.com/Vedza/disgord/json"
 )
 
 // common functionality/types used by struct_*.go files goes here

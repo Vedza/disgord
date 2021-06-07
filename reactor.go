@@ -6,7 +6,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/andersfylling/disgord/internal/gateway"
+	"github.com/Vedza/disgord/internal/gateway"
 )
 
 //////////////////////////////////////////////////////

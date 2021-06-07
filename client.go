@@ -11,12 +11,12 @@ import (
 
 	"golang.org/x/net/proxy"
 
-	"github.com/andersfylling/disgord/internal/gateway"
-	"github.com/andersfylling/disgord/internal/logger"
+	"github.com/Vedza/disgord/internal/gateway"
+	"github.com/Vedza/disgord/internal/logger"
 
-	"github.com/andersfylling/disgord/internal/constant"
+	"github.com/Vedza/disgord/internal/constant"
 
-	"github.com/andersfylling/disgord/internal/httd"
+	"github.com/Vedza/disgord/internal/httd"
 )
 
 var DefaultHttpClient = &http.Client{}

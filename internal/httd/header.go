@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/andersfylling/disgord/json"
+	"github.com/Vedza/disgord/json"
 )
 
 // http rate limit identifiers

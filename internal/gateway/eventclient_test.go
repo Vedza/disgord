@@ -12,14 +12,14 @@ import (
 	"testing"
 	"time"
 
-	"github.com/andersfylling/disgord/json"
+	"github.com/Vedza/disgord/json"
 
 	"go.uber.org/atomic"
 
-	"github.com/andersfylling/disgord/internal/constant"
-	"github.com/andersfylling/disgord/internal/gateway/cmd"
-	"github.com/andersfylling/disgord/internal/gateway/opcode"
-	"github.com/andersfylling/disgord/internal/logger"
+	"github.com/Vedza/disgord/internal/constant"
+	"github.com/Vedza/disgord/internal/gateway/cmd"
+	"github.com/Vedza/disgord/internal/gateway/opcode"
+	"github.com/Vedza/disgord/internal/logger"
 )
 
 type testWS struct {

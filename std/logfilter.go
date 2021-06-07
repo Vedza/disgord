@@ -3,8 +3,8 @@ package std
 import (
 	"strconv"
 
-	"github.com/andersfylling/disgord"
-	"github.com/andersfylling/disgord/internal/logger"
+	"github.com/Vedza/disgord"
+	"github.com/Vedza/disgord/internal/logger"
 )
 
 type logFilterdg interface {

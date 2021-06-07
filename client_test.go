@@ -14,10 +14,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/andersfylling/disgord/internal/logger"
-	"github.com/andersfylling/disgord/json"
+	"github.com/Vedza/disgord/internal/logger"
+	"github.com/Vedza/disgord/json"
 
-	"github.com/andersfylling/disgord/internal/gateway"
+	"github.com/Vedza/disgord/internal/gateway"
 )
 
 func init() {

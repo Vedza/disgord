@@ -1,7 +1,7 @@
 package disgord
 
 import (
-	"github.com/andersfylling/disgord/internal/disgorderr"
+	"github.com/Vedza/disgord/internal/disgorderr"
 )
 
 // TODO: go generate from internal/errors/*

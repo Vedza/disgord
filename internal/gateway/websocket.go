@@ -4,7 +4,7 @@ import (
 	"context"
 	"net/http"
 
-	"github.com/andersfylling/disgord/internal/util"
+	"github.com/Vedza/disgord/internal/util"
 )
 
 type Snowflake = util.Snowflake

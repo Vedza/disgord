@@ -4,7 +4,7 @@ import (
 	"context"
 	"strings"
 
-	"github.com/andersfylling/disgord"
+	"github.com/Vedza/disgord"
 )
 
 func NewMsgFilter(ctx context.Context, client disgord.Session) (filter *msgFilter, err error) {

@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"github.com/andersfylling/disgord"
+	"github.com/Vedza/disgord"
 )
 
 const (

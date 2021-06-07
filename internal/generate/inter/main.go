@@ -19,11 +19,11 @@ import (
 	"k8s.io/gengo/parser"
 	"k8s.io/gengo/types"
 
-	"github.com/andersfylling/disgord/internal/generate/blankvar"
+	"github.com/Vedza/disgord/internal/generate/blankvar"
 )
 
 const (
-	PKGName = "github.com/andersfylling/disgord"
+	PKGName = "github.com/Vedza/disgord"
 )
 
 var (

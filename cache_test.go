@@ -3,7 +3,7 @@ package disgord
 import (
 	"errors"
 	"fmt"
-	"github.com/andersfylling/disgord/json"
+	"github.com/Vedza/disgord/json"
 	"strings"
 	"testing"
 	"time"

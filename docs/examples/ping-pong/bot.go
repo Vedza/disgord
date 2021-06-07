@@ -4,8 +4,8 @@ import (
 	"context"
 	"os"
 
-	"github.com/andersfylling/disgord"
-	"github.com/andersfylling/disgord/std"
+	"github.com/Vedza/disgord"
+	"github.com/Vedza/disgord/std"
 )
 
 // So the time has come where you want to be a bot engineer huh?

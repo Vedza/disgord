@@ -4,7 +4,7 @@ package disgord
 // Warning: This file is overwritten at "go generate", instead adapt internal/gateway/intents.go and run go generate
 
 import (
-	"github.com/andersfylling/disgord/internal/gateway"
+	"github.com/Vedza/disgord/internal/gateway"
 )
 
 type Intent = gateway.Intent

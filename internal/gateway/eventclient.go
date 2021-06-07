@@ -10,15 +10,15 @@ import (
 	"sync"
 	"time"
 
-	evt "github.com/andersfylling/disgord/internal/event"
-	"github.com/andersfylling/disgord/json"
+	evt "github.com/Vedza/disgord/internal/event"
+	"github.com/Vedza/disgord/json"
 
 	"go.uber.org/atomic"
 
-	"github.com/andersfylling/disgord/internal/gateway/cmd"
-	"github.com/andersfylling/disgord/internal/gateway/event"
-	"github.com/andersfylling/disgord/internal/gateway/opcode"
-	"github.com/andersfylling/disgord/internal/logger"
+	"github.com/Vedza/disgord/internal/gateway/cmd"
+	"github.com/Vedza/disgord/internal/gateway/event"
+	"github.com/Vedza/disgord/internal/gateway/opcode"
+	"github.com/Vedza/disgord/internal/logger"
 )
 
 // NewManager creates a new socket client manager for handling behavior and Discord events. Note that this

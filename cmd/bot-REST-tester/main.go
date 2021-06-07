@@ -6,9 +6,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/andersfylling/disgord/internal/constant"
+	"github.com/Vedza/disgord/internal/constant"
 
-	"github.com/andersfylling/disgord"
+	"github.com/Vedza/disgord"
 )
 
 type keys struct {

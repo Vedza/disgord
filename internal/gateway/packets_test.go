@@ -8,7 +8,7 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/andersfylling/disgord/json"
+	"github.com/Vedza/disgord/json"
 )
 
 func getAllJSONFiles(t *testing.T) (files [][]byte) {

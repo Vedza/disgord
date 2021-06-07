@@ -5,10 +5,10 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/andersfylling/disgord/internal/gateway"
-	"github.com/andersfylling/disgord/internal/gateway/cmd"
-	"github.com/andersfylling/disgord/internal/httd"
-	"github.com/andersfylling/disgord/json"
+	"github.com/Vedza/disgord/internal/gateway"
+	"github.com/Vedza/disgord/internal/gateway/cmd"
+	"github.com/Vedza/disgord/internal/httd"
+	"github.com/Vedza/disgord/json"
 )
 
 func (c *Client) Gateway() GatewayQueryBuilder {

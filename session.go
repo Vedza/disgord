@@ -4,7 +4,7 @@ import (
 	"context"
 	"time"
 
-	"github.com/andersfylling/disgord/internal/logger"
+	"github.com/Vedza/disgord/internal/logger"
 )
 
 // Session Is the runtime interface for Disgord. It allows you to interact with a live session (using sockets or not).

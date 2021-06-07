@@ -5,7 +5,7 @@ package disgord
 import (
 	"testing"
 
-	"github.com/andersfylling/disgord/json"
+	"github.com/Vedza/disgord/json"
 )
 
 func TestChannel_DeepCopy(t *testing.T) {

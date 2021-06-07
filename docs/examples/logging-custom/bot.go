@@ -6,7 +6,7 @@ import (
 
 	"go.uber.org/zap"
 
-	"github.com/andersfylling/disgord"
+	"github.com/Vedza/disgord"
 )
 
 // DefaultLogger create a new logger instance for Disgord with the option to activate debugging.

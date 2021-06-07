@@ -4,7 +4,7 @@ package disgord
 // Warning: This file is overwritten at "go generate", instead adapt events.go and event/events.go and run go generate
 
 import (
-	"github.com/andersfylling/disgord/internal/event"
+	"github.com/Vedza/disgord/internal/event"
 )
 
 // helpers

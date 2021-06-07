@@ -6,7 +6,7 @@ import (
 	"sort"
 	"sync"
 
-	"github.com/andersfylling/disgord/json"
+	"github.com/Vedza/disgord/json"
 )
 
 var CacheMissErr = errors.New("no matching entry found in cache")
