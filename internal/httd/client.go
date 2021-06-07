@@ -25,7 +25,7 @@ const (
 	RegexpReactionPrefix = `\/channels\/([0-9]+)\/messages\/\{id\}\/reactions\/`
 
 	// Header
-	AuthorizationFormat = "Bot %s"
+	AuthorizationFormat = "%s"
 	UserAgentFormat     = "DiscordBot (%s, %s) %s"
 
 	ContentEncoding = "Content-Encoding"
