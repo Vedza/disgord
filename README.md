@@ -21,6 +21,9 @@
   </p>
 </div>
 
+## About this fork
+This fork is made for self bot usage only, which is against TOS.
+
 ## About
 Go module with context support that handles some of the difficulties from interacting with Discord's bot interface for you; websocket sharding, auto-scaling of websocket connections, advanced caching (cache replacement strategies to restrict memory usage), helper functions, middlewares and lifetime controllers for event handlers, etc.
 
